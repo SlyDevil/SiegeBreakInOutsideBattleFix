@@ -1,4 +1,4 @@
-Only relevant for TOR - Season of Doom - 1.2.12. Directly fixed in later versions.
+Only relevant for TOR - Season of Doom - 1.2.11. Directly fixed in later versions.
 
 # SiegeBreakInOutsideBattleFix
 
